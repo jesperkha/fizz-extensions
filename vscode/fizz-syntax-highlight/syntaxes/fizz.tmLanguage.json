@@ -6,6 +6,9 @@
 			"include": "#objects"
 		},
 		{
+			"include": "#symbols"
+		},
+		{
 			"include": "#keywords"
 		},
 		{
@@ -16,9 +19,6 @@
 		},
 		{
 			"include": "#numbers"
-		},
-		{
-			"include": "#symbols"
 		},
 		{
 			"include": "#functions"
