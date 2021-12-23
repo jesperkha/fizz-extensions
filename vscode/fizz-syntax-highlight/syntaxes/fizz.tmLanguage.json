@@ -40,7 +40,7 @@
 				},
 				{
 					"name": "keyword.function.fizz",
-					"match": "\\b(func|var|print|import|define|exit)\\b"
+					"match": "\\b(func|var|print|import|define|exit|include)\\b"
 				},
 				{
 					"name": "keyword.operator.comparison.fizz",

@@ -1,5 +1,10 @@
 # Change Log
 
+## **v1.2**
+
+- Added include keyword
+- Added := operator
+
 ## **v1.1**
 
 - Functions fixed
