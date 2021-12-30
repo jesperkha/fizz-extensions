@@ -5,7 +5,7 @@ rules:
   - constant: "\\b(true|false|nil)\\b"
   - identifier: "\\b(func|define)\\b [a-zA-Z_0-9]+"
   - special: "\\b(break|skip|return|)\\b"
-  - statement: "\\b(else|while|if|range)\\b"
+  - statement: "\\b(else|while|if|range|in)\\b"
   - preproc: "\\b(include|error|exit|import|var|define|print|type|enum)\\b"
   - symbol.operator: "([~^:,+*|=!\\%@]|<|>|/|-|&)"
   - symbol.brackets: "([(){}]|\\[|\\])"
